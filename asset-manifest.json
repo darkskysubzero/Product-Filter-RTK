@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Product-Filter-RTK%20/static/css/main.c528fb34.css",
+    "main.js": "/Product-Filter-RTK%20/static/js/main.098c08b5.js",
+    "index.html": "/Product-Filter-RTK%20/index.html",
+    "main.c528fb34.css.map": "/Product-Filter-RTK%20/static/css/main.c528fb34.css.map",
+    "main.098c08b5.js.map": "/Product-Filter-RTK%20/static/js/main.098c08b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c528fb34.css",
+    "static/js/main.098c08b5.js"
+  ]
+}
